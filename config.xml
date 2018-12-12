@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.tranapps.footd" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.tranapps.footd" version="1.5" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Strawberry Stinky Feet</name>
 	<description>Foot Doctor game</description>
 	<author href="http://www.pixelgangstudio.com" email="support@pixelgangstudios.com">Gerrell Jones</author>
@@ -9,7 +9,7 @@
 
 	<preference name="android-targetSdkVersion" value="26" />
 
-	<preference name="orientation" value="default" />
+	<preference name="orientation" value="landscape" />
 	<preference name="fullscreen" value="true" />
 	<preference name="DisallowOverscroll" value="true" />
 	<preference name="AllowInlineMediaPlayback" value="true" />

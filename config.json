@@ -1,6 +1,6 @@
 ﻿{
 	"id": "com.tranapps.footd",
-	"version": "1.0",
+	"version": "1.5",
 	"name": "Strawberry Stinky Feet",
 	"description": "Foot Doctor game",
 	"author": "Gerrell Jones",
@@ -8,7 +8,7 @@
 	"website": "http://www.pixelgangstudio.com",
 	"fullscreen": "true",
 	"useragent": null,
-	"orientation": "default",
+	"orientation": "landscape",
 	"icons": [{
 		"src": "www/icon-256.png",
 		"width": 256,
